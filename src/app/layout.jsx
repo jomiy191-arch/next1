@@ -6,6 +6,7 @@ import CustomCursor from './components/CustomCursor'
 import { LanguageProvider } from './components/LanguageProvider'
 import Footer from './components/Footer'
 import BellRegister from './components/BellRegister'
+import InitialLoader from './components/InitialLoader'
 
 export default function RootLayout({ children }) {
   return (
@@ -27,6 +28,7 @@ export default function RootLayout({ children }) {
           <RevealObserver />
           <CustomCursor />
           <BellRegister />
+          <InitialLoader />
         </LanguageProvider>
       </body>
     </html>
