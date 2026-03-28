@@ -52,7 +52,7 @@ body {
     radial-gradient(circle at 10% 15%, rgba(80, 195, 145, 0.24) 0%, rgba(34, 139, 94, 0) 45%),
     radial-gradient(circle at 88% 10%, rgba(88, 171, 255, 0.18) 0%, rgba(88, 171, 255, 0) 50%),
     radial-gradient(circle at 25% 80%, rgba(255, 234, 138, 0.45) 0%, rgba(255, 234, 138, 0) 55%),
-    linear-gradient(180deg, #eef6ec 0%, #ffffff 60%);
+    linear-gradient(180deg, #eef6ec 0%, #e89090 60%);
   scroll-behavior: smooth;
   cursor: none;
   position: relative;
