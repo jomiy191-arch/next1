@@ -224,11 +224,11 @@ textarea {
 }
 
 .mobile-menu a:hover {
-  background: rgba(21, 111, 179, 0.06);
+  background: rgba(16, 20, 23, 0.06);
 }
 
 .mobile-menu a.active {
-  background: rgba(48, 123, 181, 0.12);
+  background: rgba(16, 20, 23, 0.12);
   color: var(--ink);
 }
 
