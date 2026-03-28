@@ -13,23 +13,23 @@
   --paper: #f5f1ea;
   --card: #ffffff;
   --accent: #7b6cff;
-  --accent-soft: rgba(67, 59, 141, 0.18);
+  --accent-soft: rgba(55, 52, 82, 0.18);
   --green: #2e6b4f;
   --green-soft: rgba(79, 175, 130, 0.12);
 }
 
 .theme-dark {
   color-scheme: dark;
-  --ink: #2a66de;
-  --ink-strong: #9a5f5f;
-  --muted: #2f578f;
-  --line: rgba(95, 61, 61, 0.16);
-  --paper: #316496;
+  --ink: #4262a3;
+  --ink-strong: #ffffff;
+  --muted: #aab2bd;
+  --line: rgba(255, 255, 255, 0.16);
+  --paper: #0d1115;
   --card: rgba(16, 20, 23, 0.85);
-  --accent: #be6161;
+  --accent: #ffffff;
   --accent-soft: rgba(255, 255, 255, 0.16);
-  --green: #d63535;
-  --green-soft: rgba(204, 35, 35, 0.12);
+  --green: #ffffff;
+  --green-soft: rgba(255, 255, 255, 0.12);
 }
 
 html,
@@ -49,7 +49,7 @@ body {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   color: var(--ink);
   background:
-    radial-gradient(circle at 10% 15%, rgba(80, 195, 145, 0.24) 0%, rgba(34, 139, 94, 0) 45%),
+    radial-gradient(circle at 10% 15%, rgba(34, 139, 94, 0.24) 0%, rgba(34, 139, 94, 0) 45%),
     radial-gradient(circle at 88% 10%, rgba(88, 171, 255, 0.18) 0%, rgba(88, 171, 255, 0) 50%),
     radial-gradient(circle at 25% 80%, rgba(255, 234, 138, 0.45) 0%, rgba(255, 234, 138, 0) 55%),
     linear-gradient(180deg, #eef6ec 0%, #ffffff 60%);
