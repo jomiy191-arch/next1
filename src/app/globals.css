@@ -189,7 +189,7 @@ textarea {
 }
 
 .theme-dark .burger span {
-  background: #ffffff;
+  background: #dc3737;
 }
 
 .burger.is-open span:nth-child(1) {
