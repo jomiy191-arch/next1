@@ -118,7 +118,7 @@ textarea {
   border-radius: 50%;
   background: rgba(46, 107, 79, 0.9);
   transform: translate(-50%, -50%);
-  box-shadow: 0 0 10px rgba(46, 107, 79, 0.45);
+  box-shadow: 0 0 10px rgba(47, 157, 106, 0.45);
 }
 
 @media (pointer: coarse) {
