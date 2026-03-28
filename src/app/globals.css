@@ -13,14 +13,14 @@
   --paper: #f5f1ea;
   --card: #ffffff;
   --accent: #7b6cff;
-  --accent-soft: rgba(55, 52, 82, 0.18);
+  --accent-soft: rgba(123, 108, 255, 0.18);
   --green: #2e6b4f;
-  --green-soft: rgba(79, 175, 130, 0.12);
+  --green-soft: rgba(46, 107, 79, 0.12);
 }
 
 .theme-dark {
   color-scheme: dark;
-  --ink: #4262a3;
+  --ink: #f4f5f7;
   --ink-strong: #ffffff;
   --muted: #aab2bd;
   --line: rgba(255, 255, 255, 0.16);
